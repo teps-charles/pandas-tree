@@ -1,2 +1,2 @@
-# pandas-tree
+# churn-analysis
 Exploratory data Analysis
